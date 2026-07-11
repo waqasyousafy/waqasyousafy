@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- Optional: upload banner.png (from your LinkedIn banner) to this repo and keep this line.
-     Otherwise delete it — everything else works without it. -->
-<img src="./banner.png" alt="Waqas Yousaf banner" width="100%" />
-
 <br/>
 
 # Hi, I'm Waqas Yousaf 👋
