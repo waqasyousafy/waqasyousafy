@@ -4,7 +4,7 @@
 
 # Hi, I'm Waqas Yousaf 👋
 
-### Senior Android Developer · On-Device AI/ML · Clean Architecture
+### Senior Android Developer 
 
 Building Android apps used by **10M+ people** on Google Play — specialized in
 turning on-device AI/ML into fast, reliable products.
@@ -20,7 +20,7 @@ turning on-device AI/ML into fast, reliable products.
 ## 🧭 About Me
 
 - 🔭 6+ years architecting and shipping Android apps at scale
-- 🤖 Specialized in **on-device AI/ML** — ML Kit, TensorFlow Lite, computer vision, multilingual OCR
+- 🤖 Specialized in crafting android apps. 
 - 🏗️ Clean Architecture, MVVM, multi-module apps built for maintainability
 - 📈 Shipped products with **10M+ downloads** on Google Play
 - 🧑‍🏫 Mentor to a team of 6 developers — Git workflows, Agile/Scrum, code reviews
@@ -44,7 +44,7 @@ turning on-device AI/ML into fast, reliable products.
 
 </div>
 
-**Architecture & Tooling:** MVVM · Clean Architecture · Repository Pattern · Multi-module · Hilt · Room · Coroutines & Flow · Retrofit · WorkManager · ML Kit · CameraX · Media3/ExoPlayer
+**Architecture & Tooling:** MVVM · Clean Architecture · Repository Pattern · Multi-module · Hilt · Room · Coroutines & Flow · Retrofit · WorkManager · ML Kit · CameraX · Media3/ExoPlayer, Api Integeration.
 
 <br/>
 
@@ -64,10 +64,8 @@ turning on-device AI/ML into fast, reliable products.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=waqasyousafy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Waqas's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasyousafy&theme=tokyonight&hide_border=true" alt="Waqas's streak stats" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasyousafy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasyousafy&theme=tokyonight&hide_border=true" alt="Waqas's streak stats" height="165"/>
 
 </div>
 
