@@ -4,10 +4,9 @@
 
 # Hi, I'm Waqas Yousaf 👋
 
-### Senior Android Developer 
+### Senior Android Developer | Kotlin, MVVM/Clean| GitHub| Cursor Ai | Claude Ai | Chatgpt Ai | Copilot|  Architecture, On-Device AI
 
-Building Android apps used by **10M+ people** on Google Play — specialized in
-turning on-device AI/ML into fast, reliable products.
+Building Android apps used by **10M+ people** on Google Play.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-waqas--yousaf-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/waqas-yousaf)
 [![Email](https://img.shields.io/badge/Email-waqasyousafy%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:waqasyousafy@gmail.com)
