@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- Upload banner.png to this repo's root to keep this line -->
-<img src="./banner.png" alt="Waqas Yousaf banner" width="100%" />
-
 <br/>
 
 # Waqas Yousaf
 
-### Senior Android Developer
+### Senior Android Developer | Kotlin, MVVM/Clean| GitHub| Cursor Ai | Claude Ai | Chatgpt Ai | Copilot|  Architecture, AI
 
 <i>Shipping for clients. Building my own. Both at 10M+ scale.</i>
 
