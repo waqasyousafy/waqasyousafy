@@ -3,172 +3,74 @@
 <br/>
 
 # Waqas Yousaf
+### Senior Android Developer
 
-### Senior Android Developer | Kotlin, MVVM/Clean| GitHub| Cursor Ai | Claude Ai | Chatgpt Ai | Copilot|  Architecture, AI
-
-<i>Shipping for clients. Building my own. Both at 10M+ scale.</i>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-yousaf-15ba3411a/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasyousafy@gmail.com)
-[![Play Store](https://img.shields.io/badge/Google_Play-Published_Apps-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-yousaf-15ba3411a/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:waqasyousafy@gmail.com)
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## About
 
-I'm a Senior Android Developer with 6+ years of experience wearing two hats: delivering
-polished, production-grade apps for **client teams and agencies**, and independently
-**designing, building, and owning consumer apps** on Google Play. Either way, the standard
-is the same — Clean Architecture, on-device AI/ML where it counts, and code that holds up
-at scale.
-
-- 🔭 6+ years across service delivery and independent product work
-- 🤖 Specialized in on-device AI/ML — ML Kit, TensorFlow Lite, computer vision, multilingual OCR
-- 📈 Apps I've built or shipped have reached **10M+ downloads** on Google Play
-- 🧑‍🏫 Mentor to a team of 6 developers — Git workflows, Agile/Scrum, code reviews
-- 🔗 [linkedin.com/in/waqas-yousaf](https://www.linkedin.com/in/waqas-yousaf-15ba3411a/)
+Senior Android Developer with 6+ years of experience building apps in Kotlin using
+MVVM and Clean Architecture. Experience spans both client/agency projects and
+independently built products, with a focus on on-device AI/ML, performance, and
+maintainable code.
 
 <br/>
 
-## 🏢 Service-Based Experience — Client & Agency Delivery
+## Experience
 
-<table>
-<tr>
-<td width="100%">
+**Senior Android Developer — Trusted Technologies**
+Aug 2024 – Present
 
-**Senior Android Developer · Trusted Technologies**
-<sub>Aug 2024 – Present · Lahore</sub>
+- Built and maintained a consumer Android app using Kotlin, MVVM, and a multi-module architecture
+- Integrated ML Kit and TensorFlow Lite for on-device image processing and OCR
+- Set up CI/CD pipelines with GitHub Actions
 
-End-to-end ownership of a consumer Android app — architecture, build pipeline, App Store
-lifecycle, and production monitoring — scaled to **10M+ downloads**.
+**Android Developer — Hazel Mobile**
+Jan 2020 – Feb 2024
 
-`Kotlin` `MVVM` `Clean Architecture` `Multi-module` `Hilt` `Firebase` `ML Kit` `TensorFlow Lite` `CI/CD`
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**Android Developer · Hazel Mobile**
-<sub>Jan 2020 – Feb 2024 · Lahore</sub>
-
-Designed and shipped Android apps for clients across productivity, media, utilities, and
-health & lifestyle — from concept to launch, in close partnership with design and QA.
-
-`Kotlin` `MVVM` `Firebase` `Retrofit` `Agile/Scrum`
-
-</td>
-</tr>
-</table>
+- Built Android apps across productivity, media, utilities, and health/lifestyle categories
+- Integrated Firebase, Retrofit, and third-party APIs
+- Worked with design and QA teams in an Agile/Scrum environment
 
 <br/>
 
-## 📱 Product-Based Experience — Apps I've Built & Own
+## Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[AI Gallery](https://drive.google.com/file/d/1cxh26ogzrHeQOEGDKkjaVHwP32WU7j1s/view?usp=drive_link)**
-<br/>
-Finds photos by face or by text inside them — even Arabic/Urdu — blending on-device ML
-with an OCR fallback. Doubles as an offline document viewer.
-
-</td>
-<td width="33%" valign="top">
-
-**[Stickers & Logo Maker](https://play.google.com/store/apps/details?id=ai.sticker.maker.stickermaker.whatsappstickers.stickers.stickermakerforwhatsapp)**
-<br/>
-Turns photos into animated WhatsApp stickers through a custom WebP pipeline, backed by
-Firebase.
-
-</td>
-<td width="33%" valign="top">
-
-**[All Documents Reader & Editor](https://play.google.com/store/apps/details?id=alldocumentreader.documentreader.office.viewer.filereader.pdfeditor)**
-<br/>
-Multi-format document viewer and editor with Google Drive sync for cloud backup.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**[Blood Pressure Tracker](https://play.google.com/store/apps/details?id=bloodpressureapp.bloodpressuretracker.bloodpressuremonitor)**
-<br/>
-5-module health tracker — BP, heart rate, weight/BMI, sugar, cholesterol — with trend
-graphs that make patterns easy to spot.
-
-</td>
-<td width="33%" valign="top">
-
-**[Weather Forecast & Radar](https://play.google.com/store/apps/details?id=weatherforecast.radar.widget)**
-<br/>
-Live weather, air-quality, and earthquake data on home-screen widgets, with forecast
-graphs at a glance.
-
-</td>
-<td width="33%" valign="top">
-
-**[Screen Recorder](https://play.google.com/store/apps/details?id=videoeditor.screenrecorder.videorecorder.recorder.editor)**
-<br/>
-A screen capture and video editing app built for simplicity and speed.
-
-</td>
-</tr>
-</table>
+- **[AI Gallery](https://drive.google.com/file/d/1cxh26ogzrHeQOEGDKkjaVHwP32WU7j1s/view?usp=drive_link)** — Photo gallery app with face and text search, including OCR support
+- **[Stickers & Logo Maker](https://play.google.com/store/apps/details?id=ai.sticker.maker.stickermaker.whatsappstickers.stickers.stickermakerforwhatsapp)** — Turns photos into WhatsApp stickers
+- **[All Documents Reader & Editor](https://play.google.com/store/apps/details?id=alldocumentreader.documentreader.office.viewer.filereader.pdfeditor)** — Document viewer/editor with Google Drive sync
+- **[Blood Pressure Tracker](https://play.google.com/store/apps/details?id=bloodpressureapp.bloodpressuretracker.bloodpressuremonitor)** — Health tracker with trend graphs
+- **[Weather Forecast & Radar](https://play.google.com/store/apps/details?id=weatherforecast.radar.widget)** — Weather app with home-screen widgets
 
 <br/>
 
-## 🛠️ Tech Stack
+## Skills
+
+**Languages & Tools:** Kotlin, Java, Android SDK, Android Studio, Git
+**Architecture:** MVVM, Clean Architecture, Repository Pattern, Multi-module, Hilt
+**Libraries:** Coroutines & Flow, Retrofit, Room, WorkManager, CameraX
+**Other:** Firebase, ML Kit, TensorFlow Lite, CI/CD (GitHub Actions)
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-</div>
-
-<div align="center">
-
-<sub>**Architecture & Tooling:** MVVM · Clean Architecture · Repository Pattern · Multi-module · Hilt · Room · Coroutines & Flow · Retrofit · WorkManager · ML Kit · CameraX · Media3/ExoPlayer</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=waqasyousafy&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasyousafy&layout=compact&theme=default&hide_border=true" alt="Top languages" height="150"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## Contact
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=waqasyousafy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Waqas's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasyousafy&theme=tokyonight&hide_border=true" alt="Waqas's streak stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasyousafy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📫 Let's Connect
-
-Open to both **project-based collaboration** and **product partnerships**.
-
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-yousaf-15ba3411a/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:waqasyousafy@gmail.com)
-
-<sub>Lahore, Pakistan 🇵🇰</sub>
-
-</div>
+- LinkedIn: [linkedin.com/in/waqas-yousaf](https://www.linkedin.com/in/waqas-yousaf-15ba3411a/)
+- Email: waqasyousafy@gmail.com
+- Location: Lahore, Pakistan
