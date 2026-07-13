@@ -30,7 +30,7 @@ delivered have reached **10M+ downloads** on Google Play.
 <td width="60%" valign="top">
 
 &nbsp;&nbsp;🏗️&nbsp; 6+ years shipping production Android apps
-&nbsp;&nbsp;🤖&nbsp; On-device AI/ML — ML Kit, TensorFlow Lite, OCR, computer vision
+&nbsp;&nbsp;🤖&nbsp; Google Ads and Revenue Expert
 &nbsp;&nbsp;📈&nbsp; 10M+ downloads across client and personal apps
 &nbsp;&nbsp;🧑‍🏫&nbsp; Mentor to a team of 6 developers
 &nbsp;&nbsp;📍&nbsp; Lahore, Pakistan
@@ -49,7 +49,6 @@ delivered have reached **10M+ downloads** on Google Play.
 ## 🏢 Service-Based Work — Client & Agency Delivery
 
 > **Senior Android Developer** · Trusted Technologies
-> <sub>Aug 2024 – Present · Lahore</sub>
 >
 > Owned a consumer Android app end-to-end — architecture, build pipeline, release
 > lifecycle, and production monitoring — scaled to 10M+ downloads.
@@ -57,7 +56,6 @@ delivered have reached **10M+ downloads** on Google Play.
 > `Kotlin` `MVVM` `Clean Architecture` `Hilt` `Firebase` `ML Kit` `TensorFlow Lite` `CI/CD`
 
 > **Android Developer** · Hazel Mobile
-> <sub>Jan 2020 – Feb 2024 · Lahore</sub>
 >
 > Shipped client apps across productivity, media, utilities, and health & lifestyle,
 > working closely with design and QA from concept to launch.
