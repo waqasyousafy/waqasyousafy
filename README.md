@@ -88,6 +88,34 @@ Multi-format document viewer and editor with Google Drive sync.
 5-module health tracker with trend graphs across BP, heart rate, weight, sugar, cholesterol.
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎥 <a href="https://play.google.com/store/apps/details?id=videoeditor.screenrecorder.videorecorder.recorder.editor">Screen Recorder</a></h3>
+Screen capture and video editing app built for simplicity and speed.
+</td>
+<td width="50%" valign="top">
+<h3>🔊 <a href="https://play.google.com/store/apps/details?id=volume.booster.sound.equalizer.bassboost.audioboost">Volume Booster</a></h3>
+System sound and bass-boost equalizer that gets more out of any phone's speakers.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>▶️ <a href="https://apkpure.net/video-player-hd-media-player/video.player.mediaplayer.mp4player.videoplayer">Video Player</a></h3>
+Local media player with folder browsing, Picture-in-Picture, YouTube playback, streaming, and full MKV/MP4 support.
+</td>
+<td width="50%" valign="top">
+<h3>🌦️ <a href="https://play.google.com/store/apps/details?id=weatherforecast.radar.widget">Weather Forecast & Radar</a></h3>
+Live weather, air-quality, and earthquake data on home-screen widgets with forecast graphs.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💰 Expenses Manager</h3>
+Firebase-backed group bill-splitting tool with expense visualization and cloud backup.
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1C33,100:16324F&height=2&width=1000" width="100%"/>
