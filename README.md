@@ -69,7 +69,7 @@ delivered have reached **10M+ downloads** on Google Play.
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🖼️ <a href="https://drive.google.com/file/d/1cxh26ogzrHeQOEGDKkjaVHwP32WU7j1s/view?usp=drive_link">AI Gallery</a></h3>
+<h3>🖼️ <a href="https://drive.google.com/file/d/1CfcpNHmTmKJE-rG1j2OkNkbadALrC9hL/view?usp=drivesdk">AI Gallery</a></h3>
 Finds photos by face or by text inside them — even Arabic/Urdu — blending on-device ML
 with an OCR fallback. Doubles as an offline document viewer.
 </td>
@@ -110,7 +110,7 @@ Live weather, air-quality, and earthquake data on home-screen widgets with forec
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>💰 Expenses Manager</h3>
+<h3>💰 <a href="https://drive.google.com/file/d/1dwUN02A2VcHypWEEkjLKBzz5NVHfFAIB/view?usp=drivesdk">Expenses Manager</h3>
 Firebase-backed group bill-splitting tool with expense visualization and cloud backup.
 </td>
 <td width="50%" valign="top">
