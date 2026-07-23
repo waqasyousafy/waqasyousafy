@@ -29,7 +29,7 @@ delivered have reached **10M+ downloads** on Google Play.
 <tr>
 <td width="60%" valign="top">
 
-&nbsp;&nbsp;🏗️&nbsp; 6+ years shipping production Android apps
+&nbsp;&nbsp;🏗️&nbsp; 5+ years shipping production Android apps
 &nbsp;&nbsp;🤖&nbsp; Google Ads and Revenue Expert
 &nbsp;&nbsp;📈&nbsp; 10M+ downloads across client and personal apps
 &nbsp;&nbsp;🧑‍🏫&nbsp; Mentor to a team of 6 developers
