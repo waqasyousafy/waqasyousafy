@@ -69,7 +69,7 @@ delivered have reached **10M+ downloads** on Google Play.
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🖼️ <a href="https://drive.google.com/file/d/1CfcpNHmTmKJE-rG1j2OkNkbadALrC9hL/view?usp=drivesdk">AI Gallery</a></h3>
+<h3>🖼️ <a href="https://drive.google.com/file/d/12wiDzGUtB2JHCNmzfNccyUCgGKX4Ncx-/view?usp=drivesdk">AI Gallery</a></h3>
 Finds photos by face or by text inside them — even Arabic/Urdu — blending on-device ML
 with an OCR fallback. Doubles as an offline document viewer.
 </td>
