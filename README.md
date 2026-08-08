@@ -2,11 +2,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/waqas-yousaf-15ba3411a/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=35E0C2&center=true&vCenter=true&width=600&lines=Senior+Android+Developer;AI+Automation+Engineer;On-Device+AI%2FML+%C2%B7+Clean+Architecture;10M%2B+Downloads+on+Google+Play" alt="Typing SVG" />
-</a>
-
-<br/>
+### Android Developer | AI Automation Engineer | Agentic AI | n8n
 
 <a href="https://www.linkedin.com/in/waqas-yousaf-15ba3411a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:waqasyousafy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -76,6 +72,8 @@ Google Play.
 
 ## 🚀 Projects
 
+### 📱 Android Apps
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -124,38 +122,49 @@ Live weather, air-quality, and earthquake data on home-screen widgets with forec
 Firebase-backed group bill-splitting tool with expense visualization and cloud backup.
 </td>
 <td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+### 🤖 AI Automation Workflows
+
+<table>
+<tr>
+<td width="50%" valign="top">
 <h3>📚 RAG System</h3>
 Retrieval-augmented generation system built with **n8n** on predefined, domain-specific data.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>📧 Email-Based Customer Support</h3>
 Automated support flow built on **n8n** that reads, understands, and responds to customer emails.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>✍️ LinkedIn Post Content Creator</h3>
 AI-driven **n8n** pipeline that generates and schedules LinkedIn content automatically.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>🧾 Invoice Analyzer</h3>
 Automated extraction and analysis of invoice data using AI agents and **n8n**.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>🎬 Image & Video Maker for Marketing</h3>
 AI-generated visual and video content pipeline for marketing campaigns.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>⚖️ Law Firm Appointment Automation</h3>
 End-to-end AI chatbot with calendar-aware appointment booking and email-based flow automation, built on **n8n** for a law firm.
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>🖌️ Image Generation</h3>
 AI-powered image generation workflow for on-demand creative content.
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
