@@ -48,33 +48,33 @@ Google Play.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1C33,100:16324F&height=2&width=1000" width="100%"/>
 
-## 🏢 Service-Based Work — Client & Agency Delivery
+## 💼 Experience
 
 > **Senior Android Developer** · Trusted Technologies
 >
 > Owned a consumer Android app end-to-end — architecture, build pipeline, release
 > lifecycle, and production monitoring — scaled to 10M+ downloads.
 >
-> `Kotlin` `MVVM` `Clean Architecture` `Hilt` `Firebase` `ML Kit` `TensorFlow Lite` `CI/CD`
+> **Kotlin** · **MVVM** · **Clean Architecture** · **Hilt** · **Firebase** · **ML Kit** · **TensorFlow Lite** · CI/CD
+
+> **AI Automation Engineer** · Client Projects
+>
+> Design and build AI-powered automation workflows for businesses — from support and
+> content pipelines to fully automated appointment booking systems — using **n8n**,
+> LLM agents, and API-driven integrations.
+>
+> **n8n** · **AI Agents** · **LLM System Prompts** · **RAG** · API Integrations · Workflow Automation
 
 > **Android Developer** · Hazel Mobile
 >
 > Shipped client apps across productivity, media, utilities, and health & lifestyle,
 > working closely with design and QA from concept to launch.
 >
-> `Kotlin` `MVVM` `Firebase` `Retrofit` `Agile/Scrum`
-
-> **AI Automation Engineer** · Client Projects
->
-> Design and build AI-powered automation workflows for businesses — from support and
-> content pipelines to fully automated appointment booking systems — using n8n, LLM
-> agents, and API-driven integrations.
->
-> `n8n` `AI Agents` `LLM System Prompts` `API Integrations` `Workflow Automation`
+> **Kotlin** · **MVVM** · Firebase · Retrofit · Agile/Scrum
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1C33,100:16324F&height=2&width=1000" width="100%"/>
 
-## 📱 Product-Based Work — Apps I've Built & Own
+## 🚀 Projects
 
 <table>
 <tr>
@@ -124,51 +124,38 @@ Live weather, air-quality, and earthquake data on home-screen widgets with forec
 Firebase-backed group bill-splitting tool with expense visualization and cloud backup.
 </td>
 <td width="50%" valign="top">
+<h3>📚 RAG System</h3>
+Retrieval-augmented generation system built with **n8n** on predefined, domain-specific data.
 </td>
 </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1C33,100:16324F&height=2&width=1000" width="100%"/>
-
-## 🤖 AI Automation — Workflows I've Built
-
-<table>
 <tr>
-<td width="50%" valign="top">
-<h3>📚 RAG System</h3>
-Retrieval-augmented generation system built on predefined, domain-specific data.
-</td>
 <td width="50%" valign="top">
 <h3>📧 Email-Based Customer Support</h3>
-Automated support flow that reads, understands, and responds to customer emails.
+Automated support flow built on **n8n** that reads, understands, and responds to customer emails.
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3>✍️ LinkedIn Post Content Creator</h3>
-AI-driven pipeline that generates and schedules LinkedIn content automatically.
-</td>
-<td width="50%" valign="top">
-<h3>🧾 Invoice Analyzer</h3>
-Automated extraction and analysis of invoice data for downstream processing.
+AI-driven **n8n** pipeline that generates and schedules LinkedIn content automatically.
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<h3>🧾 Invoice Analyzer</h3>
+Automated extraction and analysis of invoice data using AI agents and **n8n**.
+</td>
 <td width="50%" valign="top">
 <h3>🎬 Image & Video Maker for Marketing</h3>
 AI-generated visual and video content pipeline for marketing campaigns.
 </td>
-<td width="50%" valign="top">
-<h3>⚖️ Law Firm Appointment Automation</h3>
-End-to-end AI chatbot with calendar-aware appointment booking and email-based flow automation for a law firm.
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🖌️ Image Generation</h3>
-AI-powered image generation workflow for on-demand creative content.
+<h3>⚖️ Law Firm Appointment Automation</h3>
+End-to-end AI chatbot with calendar-aware appointment booking and email-based flow automation, built on **n8n** for a law firm.
 </td>
 <td width="50%" valign="top">
+<h3>🖌️ Image Generation</h3>
+AI-powered image generation workflow for on-demand creative content.
 </td>
 </tr>
 </table>
@@ -185,7 +172,7 @@ AI-powered image generation workflow for on-demand creative content.
 
 <sub><b>Architecture:</b> MVVM · Clean Architecture · Repository Pattern · Multi-module · Hilt · Room · Coroutines & Flow · Retrofit · WorkManager</sub>
 <br/>
-<sub><b>AI Automation:</b> n8n · AI Agents · LLM System Prompts · RAG · API Integrations · Workflow Automation</sub>
+<sub><b>AI Automation:</b> <b>n8n</b> · AI Agents · LLM System Prompts · RAG · API Integrations · Workflow Automation</sub>
 
 </div>
 
