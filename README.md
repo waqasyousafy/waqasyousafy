@@ -3,7 +3,7 @@
 
 
 <a href="https://www.linkedin.com/in/waqas-yousaf-15ba3411a/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=35E0C2&center=true&vCenter=true&width=600&lines=Senior+Android+Developer;Client+Work+%2B+My+Own+Products;On-Device+AI%2FML+%C2%B7+Clean+Architecture;10M%2B+Downloads+on+Google+Play" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=35E0C2&center=true&vCenter=true&width=600&lines=Senior+Android+Developer;AI+Automation+Engineer;On-Device+AI%2FML+%C2%B7+Clean+Architecture;10M%2B+Downloads+on+Google+Play" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,19 +20,21 @@
 
 ## 🙋 About Me
 
-I build Android apps two ways — as a **senior engineer inside client and agency teams**,
-and as the **sole builder behind my own products**. Both live under the same standard:
-Kotlin, Clean Architecture, and on-device AI/ML that actually ships. Apps I've built or
-delivered have reached **10M+ downloads** on Google Play.
+I work at the intersection of **Android development** and **AI automation** — building
+production apps as a senior engineer inside client teams, shipping my own products end
+to end, and designing AI-powered automation workflows that handle real business
+processes. Kotlin, Clean Architecture, on-device AI/ML, and n8n-driven automation are
+the common thread. Apps I've built or delivered have reached **10M+ downloads** on
+Google Play.
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-&nbsp;&nbsp;🏗️&nbsp; 5+ years shipping production Android apps
-&nbsp;&nbsp;🤖&nbsp; Google Ads and Revenue Expert
+&nbsp;&nbsp;📱&nbsp; Android Developer — production apps end-to-end
+&nbsp;&nbsp;🤖&nbsp; AI Automation Engineer — n8n workflows & AI agents
 &nbsp;&nbsp;📈&nbsp; 10M+ downloads across client and personal apps
-&nbsp;&nbsp;🧑‍🏫&nbsp; Mentor to a team of 6 developers
+&nbsp;&nbsp;🧑‍🏫&nbsp; Mentor to a team of developers
 &nbsp;&nbsp;📍&nbsp; Lahore, Pakistan
 
 </td>
@@ -61,6 +63,14 @@ delivered have reached **10M+ downloads** on Google Play.
 > working closely with design and QA from concept to launch.
 >
 > `Kotlin` `MVVM` `Firebase` `Retrofit` `Agile/Scrum`
+
+> **AI Automation Engineer** · Client Projects
+>
+> Design and build AI-powered automation workflows for businesses — from support and
+> content pipelines to fully automated appointment booking systems — using n8n, LLM
+> agents, and API-driven integrations.
+>
+> `n8n` `AI Agents` `LLM System Prompts` `API Integrations` `Workflow Automation`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1C33,100:16324F&height=2&width=1000" width="100%"/>
 
@@ -120,6 +130,51 @@ Firebase-backed group bill-splitting tool with expense visualization and cloud b
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1C33,100:16324F&height=2&width=1000" width="100%"/>
 
+## 🤖 AI Automation — Workflows I've Built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📚 RAG System</h3>
+Retrieval-augmented generation system built on predefined, domain-specific data.
+</td>
+<td width="50%" valign="top">
+<h3>📧 Email-Based Customer Support</h3>
+Automated support flow that reads, understands, and responds to customer emails.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>✍️ LinkedIn Post Content Creator</h3>
+AI-driven pipeline that generates and schedules LinkedIn content automatically.
+</td>
+<td width="50%" valign="top">
+<h3>🧾 Invoice Analyzer</h3>
+Automated extraction and analysis of invoice data for downstream processing.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎬 Image & Video Maker for Marketing</h3>
+AI-generated visual and video content pipeline for marketing campaigns.
+</td>
+<td width="50%" valign="top">
+<h3>⚖️ Law Firm Appointment Automation</h3>
+End-to-end AI chatbot with calendar-aware appointment booking and email-based flow automation for a law firm.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🖌️ Image Generation</h3>
+AI-powered image generation workflow for on-demand creative content.
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1C33,100:16324F&height=2&width=1000" width="100%"/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -129,6 +184,8 @@ Firebase-backed group bill-splitting tool with expense visualization and cloud b
 <br/><br/>
 
 <sub><b>Architecture:</b> MVVM · Clean Architecture · Repository Pattern · Multi-module · Hilt · Room · Coroutines & Flow · Retrofit · WorkManager</sub>
+<br/>
+<sub><b>AI Automation:</b> n8n · AI Agents · LLM System Prompts · RAG · API Integrations · Workflow Automation</sub>
 
 </div>
 
