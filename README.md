@@ -156,6 +156,7 @@ AI-generated visual and video content pipeline for marketing campaigns.
 </td>
 <td width="50%" valign="top">
 <h3>⚖️ Law Firm Appointment Automation</h3>
+  <h3>💰 <a href="https://swift-legal-inquiry.lovable.app/">Link to Go</h3>
 End-to-end AI chatbot with calendar-aware appointment booking and email-based flow automation, built on **n8n** for a law firm.
 </td>
 </tr>
