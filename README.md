@@ -2,7 +2,7 @@
 
 
 
-### Android Developer | AI Engineer | Agentic AI | n8n
+### Android Developer | AI Engineer | Agentic AI | Generative Ai | RAG System | Agents
 
 <a href="https://www.linkedin.com/in/waqas-yousaf-15ba3411a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:waqasyousafy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
